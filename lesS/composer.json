@@ -1,0 +1,11 @@
+{
+    "name": "marcel/les-s",
+    "autoload": {
+        "psr-4": {
+            "Marcel\\LesS\\": "src/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "^5.4"
+    }
+}
